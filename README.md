@@ -6,20 +6,20 @@ This project is an intelligent AI agent that plays the board game Teeko. The AI 
 
 ---
 
-## 🎮 Game Rules
+## Game Rules
 
-[cite_start]Teeko is a two-player abstract strategy game played on a 5x5 board[cite: 12].
+Teeko is a two-player abstract strategy game played on a 5x5 board.
 
-* [cite_start]**Players**: Each player has four markers[cite: 13].
-* [cite_start]**Drop Phase**: Players take turns placing their four markers on any empty space on the board[cite: 14].
-* [cite_start]**Move Phase**: Once all eight markers are on the board, players take turns moving one of their pieces to an adjacent empty space (horizontally, vertically, or diagonally)[cite: 15].
-* [cite_start]**Win Conditions**: The first player to achieve one of the following wins the game[cite: 20]:
-    * [cite_start]Four markers in a straight line (horizontal, vertical, or diagonal)[cite: 21].
-    * [cite_start]Four markers in a 2x2 square[cite: 22].
+* **Players**: Each player has four markers.
+* **Drop Phase**: Players take turns placing their four markers on any empty space on the board.
+* **Move Phase**: Once all eight markers are on the board, players take turns moving one of their pieces to an adjacent empty space (horizontally, vertically, or diagonally).
+* **Win Conditions**: The first player to achieve one of the following wins the game:
+    * Four markers in a straight line (horizontal, vertical, or diagonal).
+    * Four markers in a 2x2 square.
 
 ---
 
-## ✨ Features
+## Features
 
 * **Intelligent AI**: Play against an AI powered by the Minimax algorithm.
 * **Heuristic Evaluation**: The AI evaluates non-winning board positions to make strategically sound moves.
@@ -29,7 +29,7 @@ This project is an intelligent AI agent that plays the board game Teeko. The AI 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1.  Ensure you have **Python 3.x** installed.
 2.  Clone this repository to your local machine.
@@ -42,6 +42,6 @@ This project is an intelligent AI agent that plays the board game Teeko. The AI 
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 * `game.py`: The main script containing the game logic, AI implementation, and user interface.
