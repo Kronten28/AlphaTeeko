@@ -2,7 +2,7 @@
 
 This project is an intelligent AI agent that plays the board game Teeko. The AI uses the **Minimax algorithm** with a depth-limited search and a heuristic evaluation function to make strategic moves against a human player.
 
-[cite_start]This was developed as a project to practice game theory, AI algorithms, and Python software design[cite: 1, 2, 3].
+This was developed as a project to practice game theory, AI algorithms, and Python software design[cite: 1, 2, 3].
 
 ---
 
